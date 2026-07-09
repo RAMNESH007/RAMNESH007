@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Ramnesh 👋</h1>
+<h1 align="center">Hi, I'm Ramnesh</h1>
 
 <p align="center">
-B.Tech CSE (AI/ML) · Building deep-tech, fintech, and trading systems
+B.Tech. CSE-AI/ML · Building deep-tech, fintech, and trading systems
 </p>
 
 ---
 
 ### 🚀 What I'm Building
 
-- 🛰️ **SKOT** — UAV airspace management platform (*Co-Founder & COO*) — GPS-denied navigation, computer-vision based sensor fusion, counter-UAS detection
+- 🛰️ **SKOT** — UAV airspace management platform (*Co-Founder & COO*) — 
 - 💳 **7EVEN** — Limited-edition NFC smart card platform (*Co-Founder & CEO*) — live at [7even.online](https://7even.online)
 - 🤖 **MyAlgoBot** — Multi-market algorithmic trading system integrating Alpaca, Zerodha Kite Connect, and Binance, deployed 24/7 on Google Cloud with automated risk management
 
@@ -34,8 +34,8 @@ B.Tech CSE (AI/ML) · Building deep-tech, fintech, and trading systems
 
 ### 📈 Currently
 
-- 🎓 B.Tech CSE (AI/ML), 2025–2029
-- 🔐 Cybersecurity Developer, college IT Cell — conducted authorized penetration testing on production systems
+- 🎓 B.Tech. CSE-AI/ML @ PSIT'29
+- 🔐 Cybersecurity Developer
 - 📊 Designing and running algorithmic trading systems across equities and crypto markets
 
 ### 🌐 Find Me
