@@ -44,10 +44,3 @@ B.Tech. CSE-AI/ML · Building deep-tech, fintech, and trading systems
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RAMNESH007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMNESH007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
