@@ -8,7 +8,7 @@ B.Tech. CSE-AI/ML · Building deep-tech, fintech, and trading systems
 
 ### 🚀 What I'm Building
 
-- 🛰️ **SKOT** — UAV airspace management platform (*Co-Founder & COO*) — 
+- 🛰️ **SKOT** — UAV airspace management platform
 - 💳 **7EVEN** — Limited-edition NFC smart card platform (*Co-Founder & CEO*) — live at [7even.online](https://7even.online)
 - 🤖 **MyAlgoBot** — Multi-market algorithmic trading system integrating Alpaca, Zerodha Kite Connect, and Binance, deployed 24/7 on Google Cloud with automated risk management
 
